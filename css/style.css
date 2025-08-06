@@ -148,6 +148,7 @@ p , label{
     font-family:BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     font-size: 18px;
     font-weight: 400;
+    line-height: 2rem;
     letter-spacing: normal;
 }
 
